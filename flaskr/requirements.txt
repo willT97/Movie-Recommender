@@ -1,0 +1,8 @@
+flask
+functools
+Flask-babel
+scipy
+pandas
+numpy
+requests
+jinja2
